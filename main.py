@@ -96,5 +96,5 @@ async def on_message(message):
         swears = 0
     swears = 0
 
-#put your bot code here
+#put your bot id here
 client.run('')
